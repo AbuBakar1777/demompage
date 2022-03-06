@@ -1,0 +1,23 @@
+body{
+	background-image: url(img1.jpg);
+	background-repeat: no-repeat;
+}
+h1{
+		padding: 24px 30px 20px 40px; /*top right bottom left*/
+		border-width: 30px;
+}
+div{
+border-color: black;
+border-width: 30px;
+border-style: solid;
+}
+p{
+	text-align: center;
+}
+#rbt{
+color: red;
+}
+#image{
+	height: 600px;
+	padding: 24px 30px 20px 40px; /*top right bottom left*/
+}
